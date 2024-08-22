@@ -4,7 +4,7 @@
 
 This test is live on vercel at [emmy-app-worktest.vercel.app](https://emmy-app-worktest.vercel.app/)
 
-## Method and 
+## Method and thoughts
 
 I decided to work with shadcn/ui to make development faster, also since the given figma file used its components.
 
@@ -15,6 +15,6 @@ which would use state to trigger conditional rendering in the three main compone
     - Made header button and header title larger to prevent squinting eyes.
 
 
-I did my best despite being sat with a cold and think I could do better if I would have had a more frequent coding habit. Despite using shadcn for the first time I found pretty easy and intuitive. The idea was to make a timer from the progessbar but I ran out of time. I had some issues with the font not being loaded properly but managed to sort it out be cross checking the shadcn documentation. 
+I did my best despite being sat with a cold and think I could do better if I would have had a more frequent coding habit and more warm in the hands. Despite using shadcn for the first time I found pretty easy and intuitive. The idea was to make a timer from the progessbar but I ran out of time. I had some issues with the font not being loaded properly but managed to sort it out be cross checking the shadcn documentation. 
 
 This is only developed for mobile.
