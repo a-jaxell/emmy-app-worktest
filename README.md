@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Emmy-app-worktest
 
-## Getting Started
+## Deployed on Vercel
 
-First, run the development server:
+This test is live on vercel at [emmy-app-worktest.vercel.app](https://emmy-app-worktest.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Method and 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I decided to work with shadcn/ui to make development faster, also since the given figma file used its components.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+By using shadcns components the different parts were a bit easier to break out. The idea was to make an SPA 
+which would use state to trigger conditional rendering in the three main components. 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* UI Changes 
+    - Made header button and header title larger to prevent squinting eyes.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+I did my best despite being sat with a cold and think I could do better if I would have had a more frequent coding habit. Despite using shadcn for the first time I found pretty easy and intuitive. The idea was to make a timer from the progessbar but I ran out of time. I had some issues with the font not being loaded properly but managed to sort it out be cross checking the shadcn documentation. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
