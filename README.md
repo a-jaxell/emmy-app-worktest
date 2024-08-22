@@ -17,3 +17,4 @@ which would use state to trigger conditional rendering in the three main compone
 
 I did my best despite being sat with a cold and think I could do better if I would have had a more frequent coding habit. Despite using shadcn for the first time I found pretty easy and intuitive. The idea was to make a timer from the progessbar but I ran out of time. I had some issues with the font not being loaded properly but managed to sort it out be cross checking the shadcn documentation. 
 
+This is only developed for mobile.
